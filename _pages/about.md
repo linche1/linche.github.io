@@ -10,7 +10,7 @@ redirect_from:
 
 
 Awards
-======
+------
 1. 第十二届蓝桥杯省赛C/C++组一等奖
 2. 第十三届蓝桥杯省赛python组广东省一等奖第一名, 国赛python组二等奖
 3. 第十四届蓝桥杯省赛python组广东省一等奖, 国赛python组二等奖
